@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Semaforo</title>
+</head>
+<body>
+  <div id="semaforo">
+    <img id="img" src="./images/desligado.png">
+
+    <div id="controle">
+      <button onclick="acenderVermelho()">Vermelho</button>
+      <button onclick="acenderAmarelo()">Amarelo</button>
+      <button onclick="acenderVerde()">Verde</button>
+      <button id="btn" onclick="acenderAutomatico()">Automático</button>
+      <button onclick="desligarSemaforo()">Desligar</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

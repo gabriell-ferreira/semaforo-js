@@ -10,7 +10,7 @@
 </ul> <br>
 
 ## :computer: Link do projeto rodando:
-## <a href='https://gabriell-ferreira.github.io/Calculadora-IMC/'>Semáforo</a>
+## <a href='https://gabriell-ferreira.github.io/semaforo-js/'>Semáforo</a>
 
 <br>
 
